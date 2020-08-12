@@ -34,7 +34,7 @@ Link : https://awesome-github-readme-profile.netlify.app
 
 ## Github README PROFILE CATEGORY
 
-- [ ] [Art](art)
+- [ ] Art
 - [ ] [Code Styled](code-styled)
 - [ ] [Creativity](creativity)
 - [ ] [Flowcharts](flowcharts)
